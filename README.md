@@ -13,10 +13,8 @@
 <br>
 
 - A passionate Self-taught Python Developer.
-- Reading Books and
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Reading Books in spare time.
+- Currently learning Machine leanring by Self.
 
 <br><br>
 
