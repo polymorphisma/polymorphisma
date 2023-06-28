@@ -12,7 +12,7 @@
 
 - A passionate Self-taught Developer.
 - Reading Books in spare time.
-- Currently learning Machine leanring by Self.
+- Currently learning Machine Learning by Self.
 
 <br>
 
